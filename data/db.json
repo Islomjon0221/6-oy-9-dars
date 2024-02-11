@@ -1,0 +1,10 @@
+{
+  "card": [
+    { "id": "1", "img": "https://picsum.photos/id/237/200/300", "name": "Shamsiddin", "age":"13", "desc": "zo'rman"},
+    { "id": "2", "img": "https://picsum.photos/id/337/200/300", "name": "Ziyovuddin", "age":"14", "desc": "yaxshiman"},
+    { "id": "3", "img": "https://picsum.photos/id/437/200/300", "name": "Elbek", "age":"14", "desc": "daxshatman"},
+    { "id": "4", "img": "https://picsum.photos/id/137/200/300", "name": "Islomjon", "age":"13", "desc": "juda yaxshiman"},
+    { "id": "5", "img": "https://picsum.photos/id/537/200/300", "name": "Jahongirmirzo", "age":"15", "desc": "o'ta yomonman"} ,
+    { "id": "5", "img": "https://picsum.photos/id/637/200/300", "name": "Komoliddin", "age":"13", "desc": "bilmayman"} 
+  ]
+}
